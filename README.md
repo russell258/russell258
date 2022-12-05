@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Russell
 - 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning the basic basics - HTML, CSS, Java
+- 🌱 I’m currently learning basics - HTML, CSS, Java, Javascript, ReactJS
 - 💞️ I’m looking to collaborate on ... nothing yet!
 - 📫 I'm based in Singapore
 
